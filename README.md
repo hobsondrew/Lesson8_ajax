@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 8, 2017
 
 ### Student Name:  
-(First and Last Name)
+Drew Hobson
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment uses a movie databases API to create a Seminole movie database with ease. It shows how simple an API makes creating certain applications. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://hobsondrew.github.io/Lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. In this lesson, I learned how to code using AJAX so that my webpage can live update without having to refresh the entire page.
+2. In this lesson, I learned how to use JSON coding to insert portions onto a webpage to add in items such as the movie plot.
+3. In this lesson, I learned how to retreive something from JSON object retrieved from whatever server the API is coming from.
